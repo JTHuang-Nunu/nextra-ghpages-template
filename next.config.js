@@ -5,5 +5,5 @@ const withNextra = require('nextra')({
 })
 
 let nextraConfig = withNextra()
-nextraConfig.assetPrefix = './'
+nextraConfig.assetPrefix = 'https://jthuang-nunu.github.io/nextra-ghpages-template'
 module.exports = nextraConfig
