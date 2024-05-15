@@ -2,6 +2,7 @@
     "name": "nextra-ghpages-template",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://jthuang-nunu.github.io/test",
     "scripts": {
         "dev": "next dev",
         "build": "next build && next export",
